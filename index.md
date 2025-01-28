@@ -1,13 +1,15 @@
+# DASHBOARDS
 ## **POWER BI.**
 1.  [Control de vencimientos](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OWYwYzMtYTQwOC00OWU4LWE5ZTAtYWQ5N2I2ZGJiZWRjIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 2.  [Control funcionamiento procesos automáticos](https://app.powerbi.com/view?r=eyJrIjoiYWYwNGEyNzAtNTlhOS00MzI3LWE5MzktMmU0YzZjMjhkNzgyIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 
+## **POWER BI + MACHINE LEARNING.**
+1.  [Dimensionaminto según la previsión de trabajo](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OWYwYzMtYTQwOC00OWU4LWE5ZTAtYWQ5N2I2ZGJiZWRjIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 
+## **PYTHON (DASH).**
+1.  [FACTURACIÓN VS INGRESOS](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OWYwYzMtYTQwOC00OWU4LWE5ZTAtYWQ5N2I2ZGJiZWRjIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+------------------------------------------
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
