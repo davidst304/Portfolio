@@ -14,8 +14,13 @@ En los siguientes apartados se puden ver mis proyectos de Data Analytics los cua
 ## **PYTHON (DASH).**
 1.  [FACTURACIÓN VS INGRESOS](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OWYwYzMtYTQwOC00OWU4LWE5ZTAtYWQ5N2I2ZGJiZWRjIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 
+# **FLUJO DE DESARROLLO.**
+![Branching](/img/flujo.png)
+
 ------------------------------------------
-# PREUBA DE CAMBIO 1
+# PROCESOS ERP
+
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -103,7 +108,7 @@ end
 
 ### Large image
 
-![Branching](/img/flujo.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
