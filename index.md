@@ -1,10 +1,8 @@
----
-layout: default
----
+## **POWER BI.**
+1.  [Control de vencimientos](https://app.powerbi.com/view?r=eyJrIjoiN2Y3OWYwYzMtYTQwOC00OWU4LWE5ZTAtYWQ5N2I2ZGJiZWRjIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
+2.  [Control funcionamiento procesos automáticos](https://app.powerbi.com/view?r=eyJrIjoiYWYwNGEyNzAtNTlhOS00MzI3LWE5MzktMmU0YzZjMjhkNzgyIiwidCI6IjhhM2IzNWVmLTg5YmMtNGI4OS05Nzg1LWY5YzNkMjZmNWM2MCIsImMiOjl9)
 
-El texto puede se modificado con **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
