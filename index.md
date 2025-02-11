@@ -6,7 +6,7 @@
 
 # DASHBOARDS
 
-En los siguientes apartados se puden ver mis proyectos de Data Analytics los cuales se encuntran funcionales con (Recopilación de Datos, Limpieza y Procesamiento, Análisis, Visualización y Comunicación y Automatización y Mantenimiento).
+En los siguientes apartados se puden ver mis proyectos de Data Analytics los cuales se encuntran funcionales con (Recopilación de Datos, Limpieza, Procesamiento, Análisis y Visualización).
 
 ## **POWER BI.**
 
