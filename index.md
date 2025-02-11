@@ -1,10 +1,8 @@
-#Sobre mí 🧑‍💻![image](https://github.com/user-attachments/assets/490615e3-0f02-4952-b7c0-4fba142104ff)
+#Sobre mí 🧑‍💻
 ✨ Apasionado/a de la tecnología y disfrutando de una transición laboral al Data Analytics
 💼 Actualmente trabajando en el departamento de operaciones como analista de operaciones, en una empresa de servicios inmobiliarios 🏛️
 💻 Estudiando y practicando Python y Machine Learning, utilizando herramientas de visualización como Power Bi y Tableau
-🚀 Buscando y desarrollando siempre nuevas herramientas como RPAs y OCRs![image](https://github.com/user-attachments/assets/96dbfee5-d92a-4181-a4e4-c3ff84762f5b)
-
-
+🚀 Buscando y desarrollando siempre nuevas herramientas como RPAs y OCRs
 
 # DASHBOARDS
 
