@@ -1,8 +1,8 @@
-#Sobre mí 🧑‍💻
-✨ Apasionado/a de la tecnología y disfrutando de una transición laboral al Data Analytics
-💼 Actualmente trabajando en el departamento de operaciones como analista de operaciones, en una empresa de servicios inmobiliarios 🏛️
-💻 Estudiando y practicando Python y Machine Learning, utilizando herramientas de visualización como Power Bi y Tableau
-🚀 Buscando y desarrollando siempre nuevas herramientas como RPAs y OCRs
+#Sobre mí 🧑‍💻  
+✨ Apasionado/a de la tecnología y disfrutando de una transición laboral al Data Analytics  
+💼 Actualmente trabajando en el departamento de operaciones como analista de operaciones, en una empresa de servicios inmobiliarios 🏛️  
+💻 Estudiando y practicando Python y Machine Learning, utilizando herramientas de visualización como Power Bi y Tableau  
+🚀 Buscando y desarrollando siempre nuevas herramientas como RPAs y OCRs  
 
 # DASHBOARDS
 
