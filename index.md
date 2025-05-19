@@ -1,11 +1,11 @@
 # Sobre mí 🧑‍💻  
-
+------------------------------------------
 💼 Soy un apasionado del análisis de datos, la inteligencia de negocios y la automatización de procesos. Con experiencia en **Power BI, Python y Machine Learning**, he desarrollado soluciones que optimizan la toma de decisiones y mejoran la eficiencia operativa en diversos sectores, como consultor interno y externo.🏛️  
  
 💻 Buscando y desarrollando siempre nuevas herramientas como RPAs y OCRs  
 
 # DASHBOARDS
-
+------------------------------------------
 En los siguientes apartados se puden ver mis proyectos de Data Analytics los cuales se encuntran funcionales con **(Recopilación de Datos, Limpieza, Procesamiento, Análisis y Visualización).**
 
 ## **POWER BI.**
