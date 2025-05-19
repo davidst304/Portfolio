@@ -24,8 +24,8 @@ En los siguientes apartados se puden ver mis proyectos de Data Analytics los cua
 ![Branching](/img/flujo.png)
 
 ------------------------------------------
-# PROCESOS DE RPA
-Automatización de tareas repetitivas de descargas volcados y reparto de tareas con Python para minimizar posbles errores y agilizar la ejecución.
+# PROCESOS DE ETL
+EJEMPLO 1: Proceso de extracción de manera recurrente datos de reservas, comprobación de las reservas del día D-1, para la identificación de cambios y envio por telegram.
 
 <!-- Aqui tengo que poner la parte del flujo -->
 
