@@ -20,13 +20,13 @@ En los siguientes apartados se puden ver mis proyectos de Data Analytics los cua
 ## **PYTHON (DASH).**
 1.  [FACTURACIÓN VS INGRESOS **EN DESARROLLO**]()
 
-### **FLUJO DE DESARROLLO.**
-![Branching](/img/flujo.png)
-
 ------------------------------------------
 # PROCESOS DE ETL
-[DESARROLLO DE PROYECTOS](./another-page.md)
+1. [Extracción reservas, identificación de cambios y envío por telegram](./proyecto1.md)
 
-<!-- Aqui tengo que poner la parte del flujo -->
+2. [Extracción SQL, comprobación de extracción mediante API, y cargar de los cambios mediante API, para aplicactivo empresariar de lowcode.](./proyecto2.md)
 
 
+------------------------------------------
+### **FLUJO DE DESARROLLO.**
+![Branching](/img/flujo.png)
