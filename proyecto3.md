@@ -4,7 +4,7 @@ layout: default
 [INICIO](./)
 # PROCESOS DE ETL
 
-## **PROYECTO (Extracción SQL, comprobación de extracción mediante API, y cargar de los cambios mediante API, para aplicactivo empresariar de lowcode.).**
+## **PROYECTO (Extracción de API y carga en SQL).**
 **Requerimientos**:
 
 Extracción de manera recurrente las reservas obtenidas duranten el día anterior para que en caso de haber cambios entre la extracción del D-1 con la extración del D se marquen las reservas nuevas en color azul y las reservas con cambios en color verder.
