@@ -26,6 +26,7 @@ En los siguientes apartados se puden ver mis proyectos de Data Analytics los cua
 
 2. [Extracción SQL, comprobación de extracción mediante API, y cargar de los cambios mediante API, para aplicactivo empresariar de lowcode.](./proyecto2.md)
 
+3. [Extracción de API y carga en SQL (Para su posterior análisis con PowerBI).](./proyecto3.md)
 
 ------------------------------------------
 ### **FLUJO DE DESARROLLO.**
